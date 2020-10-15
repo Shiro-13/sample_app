@@ -21,7 +21,7 @@
 }
 
 header, h1, nav, .list-comment {
-  font-family:'kaushan Script', cursive, sans-serif;
+  font-family: 'Kaushan Script', cursive, sans-serif;
 }
 
 header {
@@ -52,7 +52,7 @@ nav {
 .nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 0.2px;
+  margin: 0 20px;
 }
 
 main {
@@ -60,13 +60,13 @@ main {
   margin: 0 auto;
 }
 
-.list-warp {
+.list-wrap {
   display: flex;
   flex-wrap: wrap;
 }
 
 .list-box {
-  width:200px;
+  width: 200px;
   height: 250px;
   margin: 10px;
   position: relative;
